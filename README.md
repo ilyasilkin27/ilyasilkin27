@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/travis/user/repository.svg)](https://travis-ci.org/user/repository)
+
 Привет! меня зовут Илья. 
 
 ### Образование:
