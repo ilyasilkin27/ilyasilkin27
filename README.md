@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/user/repository.svg)](https://travis-ci.org/user/repository)
+[English Version](README.en.md)
 
 Привет! меня зовут Илья. 
 
