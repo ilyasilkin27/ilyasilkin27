@@ -1,4 +1,4 @@
-[English Version](README.en.md)
+[![English Version](https://img.shields.io/badge/English-README-blue)](README.en.md)
 
 Привет! меня зовут Илья. 
 
