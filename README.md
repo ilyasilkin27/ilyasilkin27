@@ -16,6 +16,7 @@
 ### Стек:
 - HTML, CSS, JS, TS, React, Git, Linux.
 - ОС: Arch Linux с i3wm.
+- IDE: Neovim, Vscodium
 
 ### Цели:
 - Углубление в JS и алгоритмы.
