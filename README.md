@@ -1,6 +1,6 @@
 [![English Version](https://img.shields.io/badge/English-README-red)](README.en.md)
 
-### Контакты
+### Контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](@ilyavitalevi4)
 [![Gmail](https://img.shields.io/badge/Gmail-yellow)](aliceicelie@gmail.com)
