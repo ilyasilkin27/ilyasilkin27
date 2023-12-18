@@ -1,5 +1,11 @@
 [![English Version](https://img.shields.io/badge/English-README-blue)](README.en.md)
 
+### Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](@ilyavitalevi4)
+[![Gmail](https://img.shields.io/badge/Gmail-blue)](aliceicelie@gmail.com)
+[![Old Github](https://img.shields.io/badge/Old Github-blue)](https://github.com/peperopuripuri)
+
 Привет! меня зовут Илья. 
 
 ### Образование:
@@ -36,9 +42,3 @@
 - Изучение open source аналогов проприетарных сервисов, приложений и ос.
 - Кулинария, азиатское направление.
 - Игра в osu!
-
-### Контакты:
-
-- [@ilyavitalevi4] (Telegram)
-- [aliceicelie@gmail.com] (Gmail)
-- [https://github.com/peperopuripuri] (old Github)
