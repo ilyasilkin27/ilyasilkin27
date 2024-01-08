@@ -3,7 +3,7 @@
 ### Контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](@ilyavitalevi4)
-[![Gmail](https://img.shields.io/badge/aliceicelie@-Gmail.com-yellow)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Gmail](https://img.shields.io/badge/ilyasilkin27@-gmail.com-yellow)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 [![Old Github](https://img.shields.io/badge/Old-Github-black)](https://github.com/peperopuripuri)
 
 Привет! меня зовут Илья. 
@@ -48,8 +48,3 @@
 - Практика слепой печати на MonkeyType.
 - Кулинария.
 - osu!
-
-### Контакты:
-- aliceicelie@gmail.com
-- @ilyavitalevi4
-- github.com/aliceicelie
