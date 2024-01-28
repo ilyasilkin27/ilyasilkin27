@@ -12,9 +12,16 @@ Hi! My name is Ilya.
 - Coming soon...
 
 ### Stack:
-- HTML, CSS, JS, TS, React, Git, Linux.
-- OS: Arch Linux with i3wm.
-- IDE: Neovim
+- HTML
+- CSS
+- JS
+- TS
+- React
+- Docker
+- WebPack
+- Ansible
+- Git
+- Linux
 
 #### Goals:
 - Getting deeper into JS and algorithms.
@@ -24,7 +31,5 @@ Hi! My name is Ilya.
 ### Hobby:
 - Practising on LeetCode.
 - Practising blind typing on MonkeyType.
-- Mastering Neovim.
-- Exploration open source analogues of proprietary services, applications and operating systems.
 - Cookery, Asian cuisine.
 - Playing osu!
