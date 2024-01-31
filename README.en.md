@@ -2,14 +2,18 @@ Hi! My name is Ilya.
 
 ### Education:
 - Secondary specialised.
-- Unfinished higher education, found myself in frontend development, which led me to self-study and take courses on this topic.
+- Unfinished higher education ( found myself in frontend development, which led me to self-study and take courses on this topic ).
 
 ### Experience:
 - Working at Hexlet College as a mentor for JS.
-- Participated in open source.
+- Open source.
 
 ### Work Tasks:
-- Coming soon...
+- Infrastructure customization
+- Upgrading services, machines
+- Creating tests and exam projects
+- Code, project, test, layout reviews
+- Creating technical documentation
 
 ### Stack:
 - HTML
@@ -31,5 +35,5 @@ Hi! My name is Ilya.
 ### Hobby:
 - Practising on LeetCode.
 - Practising blind typing on MonkeyType.
-- Cookery, Asian cuisine.
+- Cookery.
 - Playing osu!
