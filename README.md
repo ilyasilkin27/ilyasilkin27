@@ -2,7 +2,7 @@
 
 ### Контакты:
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](@ilyavitalevi4)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](@@ilyasilkin27)
 [![Gmail](https://img.shields.io/badge/ilyasilkin27@-gmail.com-yellow)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 [![Old Github](https://img.shields.io/badge/Old-Github-black)](https://github.com/peperopuripuri)
 
@@ -17,11 +17,15 @@
 ### Опыт:
 
 - Ментор по JS в Хекслет колледже.
-- Участие в open-source.
+- Open-source.
 
 ### Рабочие задачи:
 
-- coming soon...
+- Настройка инфраструктуры
+- Обнолвение сервисов, машин
+- Создание тестов и экзаминационных проектов
+- Ревью кода, проектов, тестов, вертски
+- Создание технической документации
 
 ### Стек:
 
@@ -38,9 +42,7 @@
 
 ### Цели:
 
-- Углубление знаний в JS и алгоритмах.
 - Практика и накопление опыта разработки.
-- Изучение DevOps (Ansible, Docker).
 
 ### Хобби:
 
