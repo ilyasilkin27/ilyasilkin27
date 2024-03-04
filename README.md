@@ -2,7 +2,7 @@
 
 ### Контакты:
 
-**Остальные работы по ссылке old github**
+**Остальные работы по ссылке Old Github**
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](@@ilyasilkin27)
 [![Gmail](https://img.shields.io/badge/ilyasilkin27@-gmail.com-yellow)](https://mail.google.com/mail/u/0/#inbox?compose=new)
